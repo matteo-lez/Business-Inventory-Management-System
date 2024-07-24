@@ -1,1 +1,1 @@
-Pomoćna mapa za dokumentaciju i slike.
+A map for documentation and images.
