@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Software"
+    "\\Software",
+    "\\Software\\View"
   ],
-  "SelectedNode": "\\Software\\Business Inventory Management System.sln",
+  "SelectedNode": "\\Software\\View\\LoginView.xaml",
   "PreviewInSolutionExplorer": false
 }
