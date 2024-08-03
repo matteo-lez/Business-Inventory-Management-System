@@ -13,22 +13,29 @@
         Background="Transparent"
         MouseDown="Window_MouseDown">
     <Border
-        CornerRadius="50"
-        BorderThickness="3">
-        <Border.BorderBrush>
-            <LinearGradientBrush StartPoint="0,0" EndPoint="1, 1">
-                <GradientStop Color="#333138" Offset="0"/>
-                <GradientStop Color="#6d634e" Offset="0.75"/>
-                <GradientStop Color="#7a6233" Offset="1"/>
-            </LinearGradientBrush>
-        </Border.BorderBrush>
-
+        CornerRadius="50">
         <Border.Background>
-            <LinearGradientBrush StartPoint="0,1" EndPoint="1, 0">
-                <GradientStop Color="#333138" Offset="0"/>
-                <GradientStop Color="#615e68" Offset="0.5"/>
-                <GradientStop Color="#605a4e" Offset="1"/>
-            </LinearGradientBrush>
+            <ImageBrush ImageSource="/Images/login-background.jpg"/>
         </Border.Background>
+        <Border 
+            CornerRadius="50"
+            BorderThickness="3"
+            Opacity="0.90">
+            <Border.BorderBrush>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1, 1">
+                    <GradientStop Color="#333138" Offset="0"/>
+                    <GradientStop Color="#6d634e" Offset="0.75"/>
+                    <GradientStop Color="#7a6233" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,1" EndPoint="1, 0">
+                    <GradientStop Color="#333138" Offset="0"/>
+                    <GradientStop Color="#514e56" Offset="0.75"/>
+                    <GradientStop Color="#605a4e" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+        </Border>
     </Border>
 </Window>

@@ -1,1 +1,1 @@
-A map for documentation and images.
+A map for documentation.
