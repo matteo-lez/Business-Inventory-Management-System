@@ -10,8 +10,28 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\bims-key.png" />
+    <None Remove="Images\bims-logo-128.png" />
+    <None Remove="Images\bims-logo-256.png" />
+    <None Remove="Images\bims-logo-512.png" />
+    <None Remove="Images\bims-user-icon.png" />
+    <None Remove="Images\login-background.jpg" />
+    <None Remove="Images\sunrise-logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Model\" />
     <Folder Include="ViewModel\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\bims-key.png" />
+    <Resource Include="Images\bims-logo-128.png" />
+    <Resource Include="Images\bims-logo-256.png" />
+    <Resource Include="Images\bims-logo-512.png" />
+    <Resource Include="Images\bims-user-icon.png" />
+    <Resource Include="Images\login-background.jpg" />
+    <Resource Include="Images\sunrise-logo.png" />
   </ItemGroup>
 
 </Project>

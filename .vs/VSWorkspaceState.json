@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Software",
-    "\\Software\\View"
+    "\\Software\\Model",
+    "\\Software\\View",
+    "\\Software\\ViewModel"
   ],
-  "SelectedNode": "\\Software\\Business Inventory Management System.sln",
+  "SelectedNode": "\\Software\\View\\LoginView.xaml",
   "PreviewInSolutionExplorer": false
 }
