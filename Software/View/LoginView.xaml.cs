@@ -39,5 +39,10 @@ namespace Business_Inventory_Management_System.View
         {
             Application.Current.Shutdown();
         }
+
+        private void btnLogin_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Images\bims-key.png" />
+    <None Remove="Images\bims-key-icon.png" />
     <None Remove="Images\bims-logo-128.png" />
     <None Remove="Images\bims-logo-256.png" />
     <None Remove="Images\bims-logo-512.png" />
@@ -25,7 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Images\bims-key.png" />
+    <Resource Include="Images\bims-key-icon.png" />
     <Resource Include="Images\bims-logo-128.png" />
     <Resource Include="Images\bims-logo-256.png" />
     <Resource Include="Images\bims-logo-512.png" />
