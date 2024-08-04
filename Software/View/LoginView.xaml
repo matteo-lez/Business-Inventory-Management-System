@@ -123,27 +123,52 @@
                         </Button.Template>
                     </Button>
                 </Grid>
-                <StackPanel Width="250"
+                <StackPanel Width="225"
                             Grid.Row="1"
                             Orientation="Vertical"
                             Margin="0,35,0,0">
                     <Image Source="/Images/bims-logo-512.png"
-                           Width="100"
-                           Height="100"/>
-                    <TextBlock Text="BIMS"
+                           Width="110"
+                           Height="110"/>
+                    <TextBlock Text="B I M S"
                                HorizontalAlignment="Center"
-                               Foreground="White"
-                               FontFamily="Segoe UI"
-                               FontSize="20"
-                               FontWeight="Medium"
+                               Foreground="Orange"
+                               FontFamily="Copperplate Gothic"
+                               FontSize="24"
+                               FontWeight="Heavy"
                                Margin="0, 10, 0 ,0"/>
-                    <TextBlock Text="Business Inventory Management System"
+                    <TextBlock Text="BUSINESS  INVENTORY  MANAGEMENT  SYSTEM"
                                HorizontalAlignment="Center"
-                               Foreground="LightGray"
+                               Foreground="DarkGray"
                                FontFamily="Segoe UI"
-                               FontSize="12"
-                               FontWeight="Light"
+                               FontSize="10"
+                               FontWeight="Medium"
                                Margin="0, 5, 0 ,0"/>
+                    <TextBlock Text="Username"
+                               HorizontalAlignment="Left"
+                               Foreground="LightGray"
+                               FontFamily="Verdana"
+                               FontSize="11"
+                               FontWeight="Medium"
+                               Margin="0, 35, 0 ,0"/>
+                    <TextBox x:Name="txtUsername"
+                             FontSize="12"
+                             FontWeight="Medium"
+                             FontFamily="Segoe UI"
+                             Foreground="White"
+                             CaretBrush="Orange"
+                             BorderBrush="Orange"
+                             BorderThickness="0,0,0,1"
+                             Height="28"
+                             VerticalContentAlignment="Center"
+                             Margin="0,5,0,0"
+                             Padding="20,0,0,0">
+                        <TextBox.Background>
+                            <ImageBrush ImageSource="/Images/bims-user-icon.png"
+                                        Stretch="None"
+                                        AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
                 </StackPanel>
             </Grid>
         </Border>
