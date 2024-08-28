@@ -1,0 +1,10 @@
+C:\Users\matteo\source\repos\matteo-lez\Business-Inventory-Management-System\Database\BIMS_database\bin\Debug\BIMS_database.dacpac
+C:\Users\matteo\source\repos\matteo-lez\Business-Inventory-Management-System\Database\BIMS_database\bin\Debug\BIMS_database.dll
+C:\Users\matteo\source\repos\matteo-lez\Business-Inventory-Management-System\Database\BIMS_database\bin\Debug\BIMS_database.pdb
+C:\Users\matteo\source\repos\matteo-lez\Business-Inventory-Management-System\Database\BIMS_database\obj\Debug\BIMS_database.sqlproj.AssemblyReference.cache
+C:\Users\matteo\source\repos\matteo-lez\Business-Inventory-Management-System\Database\BIMS_database\obj\Debug\Model.xml
+C:\Users\matteo\source\repos\matteo-lez\Business-Inventory-Management-System\Database\BIMS_database\obj\Debug\refactor.xml
+C:\Users\matteo\source\repos\matteo-lez\Business-Inventory-Management-System\Database\BIMS_database\obj\Debug\postdeploy.sql
+C:\Users\matteo\source\repos\matteo-lez\Business-Inventory-Management-System\Database\BIMS_database\obj\Debug\predeploy.sql
+C:\Users\matteo\source\repos\matteo-lez\Business-Inventory-Management-System\Database\BIMS_database\obj\Debug\BIMS_database.dll
+C:\Users\matteo\source\repos\matteo-lez\Business-Inventory-Management-System\Database\BIMS_database\obj\Debug\BIMS_database.pdb
